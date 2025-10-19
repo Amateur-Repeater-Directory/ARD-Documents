@@ -64,6 +64,5 @@ If you notice an error, missing data, or want to help improve accuracy:
 
 - 📖 Visit the project: [AmateurRepeaterDirectory.org](https://amateurrepeaterdirectory.org)  
 - 💾 Explore the code: [GitHub – Amateur-Repeater-Directory](https://github.com/Amateur-Repeater-Directory)  
-- 🗣 Submit updates or corrections through our [Change Request System](https://amateurrepeaterdirectory.org/submit)  
 
 Your contributions help keep this database open, transparent, and community-maintained for everyone.
